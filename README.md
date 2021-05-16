@@ -20,7 +20,7 @@ As a student and Data Science enthusiast, I seek to combine analytical, mathemat
 ## Projects:
 See my published projects:
 
-* **Analyzing the stock exchange with python:** https://bit.ly/2OMZjNV
+* **Analysing the stock exchange with python:** https://bit.ly/2OMZjNV
 * **Getting insights from Telecommunications Customer Satisfaction Survey, with Python:** https://bit.ly/3n4ZDo4
 
 ---
