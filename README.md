@@ -5,12 +5,7 @@
 </p>
 
 # Yane Sarmento
-<sub>*Student* at Instituto Federal de Educação, Ciência e Tecnologia do Ceará</sub>
-
-As a student and Data Science enthusiast, I seek to combine analytical, mathematical skills, ability to work in groups, proactivity and attention to detail. In recent years, applying Machine Learning to real situations, I developed critical thinking and problem solving skills.
-
-
-**Background in:** Python, Machine Learning, Data Visualization.
+<sub>Data/Machine Learning Engineer</sub>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/yaneholanda)
@@ -20,7 +15,7 @@ As a student and Data Science enthusiast, I seek to combine analytical, mathemat
 ## Projects:
 See my published projects:
 
-* **Analysing the stock exchange with python:** https://bit.ly/2OMZjNV
+* **Analysing the stock exchange with Python:** https://bit.ly/2OMZjNV
 * **Getting insights from Telecommunications Customer Satisfaction Survey, with Python:** https://bit.ly/3n4ZDo4
 * **Predicting the star type with Machine Learning:** https://bit.ly/3v9CAuM
 * **Using Machine Learning to Detect Breast Cancer:** https://bit.ly/3zhhf5N
